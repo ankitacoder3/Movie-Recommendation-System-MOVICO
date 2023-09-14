@@ -1,9 +1,9 @@
 # Movie-Recommendation-System
-
+### This repository contains implementation files of the project 'MOVICO', which is a movie recommendation system.
 
 ## Summary
-### This repository contains the code and  the datasets required to build ``` 'MOVICO' ```, a movie recommendation system.
-### This movie recommendation system mainly focuses and utilizes various ```collaborative filtering techniques``` .
+### The project ``` 'MOVICO' ``` is a movie recommendation system.
+### This movie recommendation system mainly focuses and utilizes various ```collaborative filtering techniques``` , like KNN, SVD, etc...
 
 ### Introduction :
 - **Project Code File**: `Collaborative_Movie_Recommendation_System.ipynb`
