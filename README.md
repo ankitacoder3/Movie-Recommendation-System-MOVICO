@@ -3,7 +3,7 @@
 
 ## Summary
 ### The project ``` 'MOVICO' ``` is a movie recommendation system.
-### This movie recommendation system mainly focuses and utilizes various ```collaborative filtering techniques``` , like KNN, SVD, etc...
+### MOVICO mainly focuses and utilizes various ```collaborative filtering techniques``` , like KNN, SVD, etc...
 
 ### Introduction :
 - **Project Code File**: `Collaborative_Movie_Recommendation_System.ipynb`
