@@ -41,16 +41,17 @@ Movie-Recommendation-System-MOVICO/
 
 * Python Modules used:
    * NumPy
-- pandas
-- matplotlib
-- seaborn
-- scipy
-- datetime
-- re
-- sklearn
-- ipywidgets
-- IPython
-- surprise
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - datetime
+  - re
+  - sklearn
+  - ipywidgets
+  - IPython
+  - surprise
+  - datetime
 
 ## Steps for Execution
 
