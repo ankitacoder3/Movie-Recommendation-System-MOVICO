@@ -64,17 +64,18 @@ Movie-Recommendation-System-MOVICO/
 
 To run MOVICO, follow these simple steps:
 
- 1. Clone the ``` 'Movie-Recommendation-System-MOVICO' ``` github repository.
+ 1. **Clone** the ``` 'Movie-Recommendation-System-MOVICO' ``` github repository.
   ```sh [
   git clone https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO.git
   ```
- 2. Navigate to the ``` 'MOVICO' ``` Directory in that.
+2. **Launch** ```Jupyter Notebook``` on your system, using Anaconda.
+ 3.**Navigate** to the ``` 'MOVICO' ``` Directory in that.
   ```sh
   cd Movie-Recommendation-System-MOVICO
   cd MOVICO
   ```
-  3. Open the ```MOVICO.ipynb``` in Jupter Notebook (using Anaconda). 
-1. **Open Jupyter Notebook**: Launch Jupyter Notebook on your system and navigate to the folder where you extracted the files. Open the `Collaborative_Movie_Recommendation_System.ipynb` file.
+  4. Open the ```MOVICO.ipynb``` file in Jupter Notebook. 
+
 
 2. **Restart and Run All**: Click on the ">>" (fast forward) option in the toolbar, or select the "Restart & Run All Cells" option from the "Kernel" menu. This will execute all the cells in the notebook.
 
