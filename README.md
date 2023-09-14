@@ -32,26 +32,29 @@ Movie-Recommendation-System-MOVICO/
 ├── .gitignore          # Git ignore file
 └── .gitattributes      # Git attributes file 
 ```
-
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+</br>
 
 ##  Prerequisites and Techstack
 
 * Language: Python
 * Prerequisites: AI-ML algorithms, like KNN, SVD.
-
+* Other tools: Anaconda, Jupyter notebook.
 * Python Modules used:
    * NumPy
-  - pandas
-  - matplotlib
-  - seaborn
-  - scipy
-  - datetime
-  - re
-  - sklearn
-  - ipywidgets
+  - Pandas
+  - Matplotlib
+  - Seaborn
+  - Scipy
+  - Datetime
+  - Re
+  - Sklearn
+  - Ipywidgets
   - IPython
-  - surprise
-  - datetime
+  - Surprise
+    
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+</br>
 
 ## Steps for Execution
 
