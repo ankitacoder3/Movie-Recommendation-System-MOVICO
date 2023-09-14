@@ -15,7 +15,7 @@
 ### MOVICO mainly focuses and utilizes various ```collaborative filtering techniques``` , like KNN, SVD, etc...
 
 ### Implementation files :
-- **Project Code File**: `Movie_Recommendation_System.ipynb`
+- **Project Python Code File**: `Movie_Recommendation_System.ipynb`
 - **Dataset Files**: `movies.csv`, `ratings.csv`
 
 ### Repository Structure :
