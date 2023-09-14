@@ -14,9 +14,10 @@
 ### The project ``` 'MOVICO' ``` is a movie recommendation system.
 ### MOVICO mainly focuses and utilizes various ```collaborative filtering techniques``` , like KNN, SVD, etc...
 
-### Implementation files :
-- **Project Python Code File**: `Movie_Recommendation_System.ipynb`
-- **Dataset Files**: `movies.csv`, `ratings.csv`
+### Files:
+#### The following files are used to implement 'MOVICO' -
+* **Project Python Code File**: `Movie_Recommendation_System.ipynb`
+* **Dataset Files**: `movies.csv`, `ratings.csv`
 
 ### Repository Structure :
 #### Below is the structure of the project repository
@@ -33,10 +34,13 @@ Movie-Recommendation-System-MOVICO/
 ```
 
 
-## Modules Used
+##  Prerequisites and Techstack
 
-The following Python modules were imported and used in this project:
-- numpy
+* Language: Python
+* Prerequisites: AI-ML algorithms, like KNN, SVD.
+
+* Python Modules used:
+   * NumPy
 - pandas
 - matplotlib
 - seaborn
