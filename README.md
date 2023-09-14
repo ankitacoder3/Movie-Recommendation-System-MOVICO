@@ -78,4 +78,4 @@ To run the movie recommendation system, follow these simple steps:
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </br>
 
-Thank you for exploring the Collaborative Movie Recommendation System project. Happy movie watching! 🍿🎬
+Thank you for exploring the MOVICO project. Happy movie watching! 🍿🎬
