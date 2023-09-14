@@ -102,8 +102,8 @@ There are 3 models used in MOVICO:
 * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/531ae7b9-4492-4f7b-83b5-c20c89fdd7a2)
 
 * MODEL3 : SVD-BASED COLLABORATIVE FILTERING
-*![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/a3d60253-b240-40bc-bb11-663cdf3b6269)
-*![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/5e754a09-c89f-4abf-8409-7983223d1680)
+* ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/a3d60253-b240-40bc-bb11-663cdf3b6269)
+* ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/5e754a09-c89f-4abf-8409-7983223d1680)
 
 
 
@@ -115,7 +115,8 @@ There are 3 models used in MOVICO:
 
 ## Usage
 * MOVICO can be used to recommend movies to users, based on collaborative filtering techniques.
-* 
+* More effective recommendation systems can be buit using MOVICO.
+* MOVICO also provides functions to test the recommendations received from the recommendation models.
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </br>
 
