@@ -63,6 +63,7 @@ Movie-Recommendation-System-MOVICO/
 ## Steps for Execution
 
 To run MOVICO, follow these simple steps:
+Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions >
 
  1. **Clone** the ``` 'Movie-Recommendation-System-MOVICO' ``` github repository.
   ```sh [
@@ -77,7 +78,7 @@ To run MOVICO, follow these simple steps:
   4. **Open** the **```MOVICO.ipynb```** file in Jupter Notebook. 
 
 
-2. **Click** on the ``` ">>" ``` (fast forward) option in the ```toolbar```, or select the ``` "Restart & Run All Cells" ``` option from the ```"Kernel"``` menu.
+2. **Run-all** cells, by clicking on the ``` ">>" ``` (fast forward) option in the ```toolbar```, or the ``` "Restart & Run All Cells" ``` option from the ```"Kernel"``` menu.
      * This shall execute all the cells in the notebook.
 
 4. **MOVICO Specific Instructions**:
@@ -85,8 +86,9 @@ To run MOVICO, follow these simple steps:
      * **b]** In cell number ```60```, you can enter ```any number from 1 to 9``` for both the inputs.
      *  * Enter the number of movies you would love to watch from the list of recommendations. Enter any number from 1 to 9 (say, 6)
         * Enter the number of movies from the list of recommendations that you would say are irrelevant to your taste. Enter any number from 1 to 9 (say, 5).
+        * These can be used for ```fine-tuning models``` too.
 
-7. **View Outputs**: After executing all the cells, the results and outputs will be displayed, including personalized movie recommendations based on your inputs.
+7. **Outputs**: will be displayed after all the cells have ran. These shall include personalized movie recommendations based on your inputs.
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </br>
@@ -113,6 +115,7 @@ There are 3 models used in MOVICO:
 
 ## Usage
 * MOVICO can be used to recommend movies to users, based on collaborative filtering techniques.
+* MOVICO outputs personalized movie recommendations based on users inputs.
 * More effective recommendation systems can be buit using MOVICO.
 * MOVICO also provides functions to test the recommendations received from the recommendation models.
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
