@@ -89,14 +89,34 @@ To run MOVICO, follow these simple steps:
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </br>
-<!--
+
+## Sample Screenshots
+
+There are 3 models used in MOVICO:
+
+* MODEL1 : USER-BASED COLLABORATIVE FILTERING
+* ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/a96f5f41-7376-4410-83dc-2566663512c9)
+  
+* MODEL2 : KNN-BASED COLLABORATIVE FILTERING
+* ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/cf882aa5-8474-4091-84f8-7dcbe38336e6)
+* ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/531ae7b9-4492-4f7b-83b5-c20c89fdd7a2)
+
+* MODEL3 : SVD-BASED COLLABORATIVE FILTERING
+*![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/a3d60253-b240-40bc-bb11-663cdf3b6269)
+*![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/5e754a09-c89f-4abf-8409-7983223d1680)
+
+
+
+
 
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </br>
 
 ## Usage
-* This shall provide a better understanding of operating system concepts.
-* This provides a practical approach for the operating system concepts.
-  -->
+* MOVICO can be used to recommend movies to users, based on collaborative filtering techniques.
+* 
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+</br>
+
 Thank you for exploring the MOVICO project. Happy movie watching! 🍿🎬
