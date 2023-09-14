@@ -77,11 +77,12 @@ To run MOVICO, follow these simple steps:
   4. Open the ```MOVICO.ipynb``` file in Jupter Notebook. 
 
 
-2. **Restart and Run All**: Click on the ">>" (fast forward) option in the toolbar, or select the "Restart & Run All Cells" option from the "Kernel" menu. This will execute all the cells in the notebook.
+2. To **Restart and Run All** cells  click on the ``` ">>" ``` (fast forward) option in the toolbar, or select the "Restart & Run All Cells" option from the "Kernel" menu.
+     * This shall execute all the cells in the notebook.
 
-3. **Movie Recommendation**: In the cell number 52, you can enter the name of a movie in the widget (e.g., "Toy Story") to display personalized movie recommendations.
+4. **Movie Recommendation**: In the cell number 52, you can enter the name of a movie in the widget (e.g., "Toy Story") to display personalized movie recommendations.
 
-4. **Fine-Tune Recommendations**: In cell number 59:
+5. **Fine-Tune Recommendations**: In cell number 59:
    - Enter the number of movies you would love to watch from the list of recommendations. Input any number from 1 to 9 (e.g., 8).
    - Enter the number of movies from the list of recommendations that you would say are irrelevant to your taste. Input any number from 1 to 9 (e.g., 2).
 
