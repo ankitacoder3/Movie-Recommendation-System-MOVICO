@@ -20,7 +20,7 @@
 
 ### Files:
 #### The following files are used to implement 'MOVICO' -
-* **Project Python Code File**: `Movie_Recommendation_System.ipynb`
+* **Project Python Code File**: `MOVICO.ipynb`
 * **Dataset Files**: `movies.csv`, `ratings.csv`
 
 ### Repository Structure :
@@ -28,7 +28,7 @@
 ```plaintext
 Movie-Recommendation-System-MOVICO/
 ├── MOVICO/             # Project Folder             
-│   ├── Movie_Recommendation_System.ipynb      # Code file
+│   ├── MOVICO.ipynb    # Code file
 │   └── dataset/        # Dataset Folder 
 │        ├── movies.csv      
 │        └── ratings.csv       
