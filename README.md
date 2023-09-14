@@ -14,7 +14,7 @@
 </br>
 
 ## Summary
-### The project ``` 'MOVICO' ``` is a movie recommendation system.
+### The project ``` 'MOVICO' ``` is a ```movie recommendation system```.
 ### MOVICO mainly focuses and utilizes various ```collaborative filtering techniques``` , like KNN, SVD, etc...
 
 ### Files:
