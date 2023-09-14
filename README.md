@@ -32,9 +32,8 @@ Movie-Recommendation-System-MOVICO/
 │   └── dataset/        # Dataset Folder 
 │        ├── movies.csv      
 │        └── ratings.csv       
-├── README.md           # Repository README
-├── .gitignore          # Git ignore file
-└── .gitattributes      # Git attributes file 
+└─── README.md           # Repository README
+
 ```
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </br>
