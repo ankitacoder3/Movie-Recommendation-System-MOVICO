@@ -5,12 +5,12 @@
 ### The project ``` 'MOVICO' ``` is a movie recommendation system.
 ### MOVICO mainly focuses and utilizes various ```collaborative filtering techniques``` , like KNN, SVD, etc...
 
-### Introduction :
-- **Project Code File**: `Collaborative_Movie_Recommendation_System.ipynb`
+### Implementation files :
+- **Project Code File**: `Movie_Recommendation_System.ipynb`
 - **Dataset Files**: `movies.csv`, `ratings.csv`
 
 ### Repository Structure :
-#### Here is the structure of the project repository
+#### Below is the structure of the project repository
 ```plaintext
 Movie-Recommendation-System-MOVICO/
 ├── Movie_Recommendation_System/   # Project Folder             
