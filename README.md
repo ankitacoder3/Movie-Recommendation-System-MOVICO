@@ -1,3 +1,6 @@
+<a name="readme-top"></a>
+
+
 # Movie-Recommendation-System-MOVICO
 ### This repository contains implementation files of the project 'MOVICO'.
 
@@ -71,5 +74,8 @@ To run the movie recommendation system, follow these simple steps:
    - Enter the number of movies from the list of recommendations that you would say are irrelevant to your taste. Input any number from 1 to 9 (e.g., 2).
 
 6. **View Outputs**: After executing all the cells, the results and outputs will be displayed, including personalized movie recommendations based on your inputs.
+
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+</br>
 
 Thank you for exploring the Collaborative Movie Recommendation System project. Happy movie watching! 🍿🎬
