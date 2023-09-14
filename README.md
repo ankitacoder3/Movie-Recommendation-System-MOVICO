@@ -2,11 +2,11 @@
 
 
 # Movie-Recommendation-System-MOVICO
-### This repository contains implementation files of the project 'MOVICO'.
+### This repository contains implementation files of the project 'MOVICO', a movie recommendation system.
 
 <details>
   <summary color= blue >Table of Contents</summary>
-<li> Summary</li>
+<li> Introduction</li>
 <li> Prerequisites and Techstack</li>
 <li> Steps for Execution </li>
 <li> Sample Screenshots </li>
@@ -14,7 +14,7 @@
 </details>
 </br>
 
-## Summary
+## Introduction
 ### The project ``` 'MOVICO' ``` is a ```movie recommendation system```.
 ### MOVICO mainly focuses and utilizes various ```collaborative filtering techniques``` , like KNN, SVD, etc...
 
