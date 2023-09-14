@@ -8,7 +8,8 @@
   <summary color= blue >Table of Contents</summary>
 <li> Summary</li>
 <li> Prerequisites and Techstack</li>
-<li> Steps for execution</li>
+<li> Steps for Execution </li>
+<li> Sample Screenshots </li>
 <li> Usage</li>
 </details>
 </br>
