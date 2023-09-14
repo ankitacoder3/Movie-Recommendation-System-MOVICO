@@ -117,4 +117,4 @@ There are 3 models used in MOVICO:
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </br>
 
-Thank you for exploring the MOVICO project. Happy movie watching! 🍿🎬
+Thank you for exploring the MOVICO project. Happy movie recommending and watching! 🍿🎬
