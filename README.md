@@ -19,7 +19,7 @@
 ### MOVICO mainly focuses and utilizes various ```collaborative filtering techniques``` , like KNN, SVD, etc...
 
 ### Files:
-#### The following files are used to implement 'MOVICO' -
+#### The following files are used to implement 'MOVICO' 
 * **Project Python Code File**: `MOVICO.ipynb`
 * **Dataset Files**: `movies.csv`, `ratings.csv`
 
