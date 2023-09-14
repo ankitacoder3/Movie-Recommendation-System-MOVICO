@@ -8,8 +8,7 @@
 ### Introduction :
 - **Project Code File**: `Collaborative_Movie_Recommendation_System.ipynb`
 - **Dataset Files**: `movies.csv`, `ratings.csv`
-<details>
- 
+
 ### Repository Structure :
 #### Here is the structure of the project repository
 ```plaintext
@@ -22,7 +21,6 @@ Movie-Recommendation-System-MOVICO/
 ├── .gitignore          # Git ignore file
 └── .gitattributes      # Git attributes file 
 ```
-
 
 
 ## Modules Used
