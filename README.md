@@ -69,7 +69,7 @@ To run MOVICO, follow these simple steps:
   git clone https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO.git
   ```
 2. **Launch** ```Jupyter Notebook``` on your system, using Anaconda.
- 3.**Navigate** to the ``` 'MOVICO' ``` Directory in that.
+3. **Navigate** to the ``` 'MOVICO' ``` Directory in that.
   ```sh
   cd Movie-Recommendation-System-MOVICO
   cd MOVICO
