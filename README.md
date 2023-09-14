@@ -1,5 +1,5 @@
 # Movie-Recommendation-System-MOVICO
-### This repository contains implementation files of the project 'MOVICO', which is a movie recommendation system.
+### This repository contains implementation files of the project 'MOVICO'.
 
 ## Summary
 ### The project ``` 'MOVICO' ``` is a movie recommendation system.
