@@ -22,10 +22,11 @@
 #### Below is the structure of the project repository
 ```plaintext
 Movie-Recommendation-System-MOVICO/
-├── Movie_Recommendation_System/   # Project Folder             
+├── MOVICO/             # Project Folder             
 │   ├── Movie_Recommendation_System.ipynb      # Code file
-│   ├── movies.csv      # Dataset file
-│   └── ratings.csv     # Dataset file   
+│   └── dataset/        # Dataset Folder 
+│        ├── movies.csv      
+│        └── ratings.csv       
 ├── README.md           # Repository README
 ├── .gitignore          # Git ignore file
 └── .gitattributes      # Git attributes file 
