@@ -1,10 +1,29 @@
 # Movie-Recommendation-System
-This repository contains the code and datasets required to build a movie recommendation system using collaborative filtering techniques.
 
-## Introduction
 
+## Summary
+### This repository contains the code and  the datasets required to build ``` 'MOVICO' ```, a movie recommendation system.
+### This movie recommendation system mainly focuses and utilizes various ```collaborative filtering techniques``` .
+
+### Introduction :
 - **Project Code File**: `Collaborative_Movie_Recommendation_System.ipynb`
 - **Dataset Files**: `movies.csv`, `ratings.csv`
+<details>
+ 
+### Repository Structure :
+#### Here is the structure of the project repository
+```plaintext
+Movie-Recommendation-System-MOVICO/
+├── Movie_Recommendation_System/   # Project Folder             
+│   ├── Movie_Recommendation_System.ipynb      # Code file
+│   ├── movies.csv      # Dataset file
+│   └── ratings.csv     # Dataset file   
+├── README.md           # Repository README
+├── .gitignore          # Git ignore file
+└── .gitattributes      # Git attributes file 
+```
+
+
 
 ## Modules Used
 
