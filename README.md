@@ -84,7 +84,7 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions >
 4. **MOVICO Specific Instructions**:
      * **a]** In the cell number ```53```, you can ```enter the name of a movie``` in the widget (say, 'Toy Story') and click ```enter```.  This shall display personalized movie recommendations.
      * **b]** In cell number ```60```, you can enter ```any number from 1 to 9``` for both the inputs.
-     *  * Enter the number of movies you would love to watch from the list of recommendations. Enter any number from 1 to 9 (say, 6)
+        * Enter the number of movies you would love to watch from the list of recommendations. Enter any number from 1 to 9 (say, 6)
         * Enter the number of movies from the list of recommendations that you would say are irrelevant to your taste. Enter any number from 1 to 9 (say, 5).
         * These can be used for ```fine-tuning models``` too.
 
