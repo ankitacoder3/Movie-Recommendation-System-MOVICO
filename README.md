@@ -3,7 +3,9 @@
 
 # Movie-Recommendation-System-MOVICO
 
-```MOVICO``` is a ```MOVIe recommendation system```, in which ```COllaborative filtering techniques``` are given more importance.
+```MOVICO``` is a ```MOVIe recommendation system```.
+
+In ```MOVICO```, ```COllaborative filtering techniques``` are majorly given importance.
 
 
 <details>
