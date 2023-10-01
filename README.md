@@ -32,7 +32,7 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
 * <b>Files :</b>
 
   The following files are used in ```MOVICO```-
-  * Project Python Code File: `MOVICO.ipynb`
+  * <i>Project Python Code File-</i> `MOVICO.ipynb`
   * <i>Dataset Files-</i> `movies.csv`, `ratings.csv`
 
 * <b>Repository Structure :</b>
@@ -50,7 +50,7 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
     
     ```
     
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  <p align="right"><a href="#readme-top">back to top</a></p>
 </br>
 
 ##  Prerequisites and Techstack
@@ -104,7 +104,7 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions >
 
 7. **Outputs**: will be displayed after all the cells have ran. These shall include personalized movie recommendations based on your inputs.
 
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  <p align="right"><a href="#readme-top">back to top</a></p>
 </br>
 
 ## Sample Screenshots
@@ -124,7 +124,7 @@ There are 3 models used in MOVICO:
   * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/a3d60253-b240-40bc-bb11-663cdf3b6269)
   * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/5e754a09-c89f-4abf-8409-7983223d1680)
 
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  <p align="right"><a href="#readme-top">back to top</a></p>
 </br>
 
 ## Usage
@@ -132,7 +132,7 @@ There are 3 models used in MOVICO:
 * MOVICO outputs personalized movie recommendations based on users inputs.
 * More effective recommendation systems can be buit using MOVICO.
 * MOVICO also provides functions to test the recommendations received from the recommendation models.
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  <p align="right"><a href="#readme-top">back to top</a></p>
 </br>
 
 Thank you for exploring the MOVICO project. Happy movie recommending and watching! 🍿🎬
