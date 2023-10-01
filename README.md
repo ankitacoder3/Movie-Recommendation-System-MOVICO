@@ -2,7 +2,9 @@
 
 
 # Movie-Recommendation-System-MOVICO
-### This repository contains implementation files of the project 'MOVICO', a movie recommendation system.
+The repository ```Movie-Recommendation-System-MOVICO``` contains the project ```MOVICO```.
+``` 'MOVICO' ``` is a ```movie recommendation system```.
+
 
 <details>
   <summary color= blue >Table of Contents</summary>
@@ -15,16 +17,17 @@
 </br>
 
 ## Introduction
-### The project ``` 'MOVICO' ``` is a ```movie recommendation system```.
-### MOVICO mainly focuses and utilizes various ```collaborative filtering techniques``` , like KNN, SVD, etc...
+``` 'MOVICO' ``` is a ```movie recommendation system```.
+```MOVICO``` mainly focuses and utilizes various ```collaborative filtering techniques``` , like KNN, SVD, etc...
 
 ### Files:
-#### The following files are used to implement 'MOVICO' 
+
+The following files are used in ```MOVICO```-
 * **Project Python Code File**: `MOVICO.ipynb`
 * **Dataset Files**: `movies.csv`, `ratings.csv`
 
 ### Repository Structure :
-#### Below is the structure of the project repository
+Below is the structure of the ```MOVICO``` project repository
 ```plaintext
 Movie-Recommendation-System-MOVICO/
 ├── MOVICO/             # Project Folder             
