@@ -3,9 +3,7 @@
 
 # Movie-Recommendation-System-MOVICO
 
-``` MOVICO``` is a ```movie recommendation system```.
-
-In MOVICO, ```COLLABORATIVE-FILTERING-TECHNIQUES``` are given more importance.
+```MOVICO``` is a ```MOVIe recommendation system```, in which ```COllaborative filtering techniques``` are given more importance.
 
 
 <details>
@@ -21,11 +19,11 @@ In MOVICO, ```COLLABORATIVE-FILTERING-TECHNIQUES``` are given more importance.
 ## Introduction
 The repository ```Movie-Recommendation-System-MOVICO``` contains the project ```MOVICO```.
 
-``` MOVICO``` is a ```movie recommendation system```.
+``` MOVICO``` is a ```Movie Recommendation System```.
 
-```MOVICO``` mainly focuses and utilizes ```collaborative filtering techniques``` 
+It mainly focuses and utilizes ```Collaborative Filtering Techniques``` 
 
-The various ```collaborative filtering techniques``` utilized are KNN, SVD, etc...
+The various collaborative filtering techniques utilized are ```KNN```, ```SVD```, etc...
 
 * Files:
 
