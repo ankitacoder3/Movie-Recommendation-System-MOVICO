@@ -2,8 +2,10 @@
 
 
 # Movie-Recommendation-System-MOVICO
-The repository ```Movie-Recommendation-System-MOVICO``` contains the project ```MOVICO```.
-``` 'MOVICO' ``` is a ```movie recommendation system```.
+
+``` MOVICO``` is a ```movie recommendation system```.
+
+In MOVICO, ```COLLABORATIVE-FILTERING-TECHNIQUES``` are given more importance.
 
 
 <details>
@@ -17,27 +19,33 @@ The repository ```Movie-Recommendation-System-MOVICO``` contains the project ```
 </br>
 
 ## Introduction
-``` 'MOVICO' ``` is a ```movie recommendation system```.
-```MOVICO``` mainly focuses and utilizes various ```collaborative filtering techniques``` , like KNN, SVD, etc...
+The repository ```Movie-Recommendation-System-MOVICO``` contains the project ```MOVICO```.
 
-### Files:
+``` MOVICO``` is a ```movie recommendation system```.
 
-The following files are used in ```MOVICO```-
-* **Project Python Code File**: `MOVICO.ipynb`
-* **Dataset Files**: `movies.csv`, `ratings.csv`
+```MOVICO``` mainly focuses and utilizes ```collaborative filtering techniques``` 
 
-### Repository Structure :
-Below is the structure of the ```MOVICO``` project repository
-```plaintext
-Movie-Recommendation-System-MOVICO/
-├── MOVICO/             # Project Folder             
-│   ├── MOVICO.ipynb    # Code file
-│   └── dataset/        # Dataset Folder 
-│        ├── movies.csv      
-│        └── ratings.csv       
-└─── README.md           # Repository README
+The various ```collaborative filtering techniques``` utilized are KNN, SVD, etc...
 
-```
+* Files:
+
+  The following files are used in ```MOVICO```-
+  * **Project Python Code File**: `MOVICO.ipynb`
+  * **Dataset Files**: `movies.csv`, `ratings.csv`
+
+* Repository Structure :
+    Below is the structure of the ```MOVICO``` project repository
+    ```plaintext
+    Movie-Recommendation-System-MOVICO/
+    ├── MOVICO/             # Project Folder             
+    │   ├── MOVICO.ipynb    # Code file
+    │   └── dataset/        # Dataset Folder 
+    │        ├── movies.csv      
+    │        └── ratings.csv       
+    └─── README.md           # Repository README
+    
+    ```
+    
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </br>
 
