@@ -21,19 +21,21 @@ In ```MOVICO```, ```COllaborative filtering techniques``` are majorly given impo
 ## Introduction
 The repository ```Movie-Recommendation-System-MOVICO``` contains the project ```MOVICO```.
 
-``` MOVICO``` is a ```Movie Recommendation System```.
+```MOVICO``` is a ```Movie Recommendation System```.
 
 It mainly focuses and utilizes ```Collaborative Filtering Techniques``` 
 
 The various collaborative filtering techniques utilized are ```KNN```, ```SVD```, etc...
 
-* Files:
+<br>
+
+* <b>Files :</b>
 
   The following files are used in ```MOVICO```-
   * **Project Python Code File**: `MOVICO.ipynb`
   * **Dataset Files**: `movies.csv`, `ratings.csv`
 
-* Repository Structure :
+* <b>Repository Structure :</b>
     Below is the structure of the ```MOVICO``` project repository
     ```plaintext
     Movie-Recommendation-System-MOVICO/
