@@ -39,7 +39,7 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
 
 ### <b>Repository Structure :</b>
 
-    Below is the structure of the ```MOVICO``` project repository
+  Below is the structure of the ```MOVICO``` project repository
   
     ```plaintext
     Movie-Recommendation-System-MOVICO/
