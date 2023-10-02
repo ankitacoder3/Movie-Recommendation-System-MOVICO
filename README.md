@@ -29,13 +29,13 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
 
 <br>
 
-* <b>Files :</b>
+### * <b>Files :</b>
 
   The following files are used in ```MOVICO```-
   * <i>Project Python Code File-</i> `MOVICO.ipynb`
   * <i>Dataset Files-</i> `movies.csv`, `ratings.csv`
 
-* <b>Repository Structure :</b>
+### * <b>Repository Structure :</b>
 
     Below is the structure of the ```MOVICO``` project repository
   
