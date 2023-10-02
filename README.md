@@ -41,7 +41,7 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
 
   Below is the structure of the ```MOVICO``` project repository
   
-    ```plaintext
+  ```plaintext
     Movie-Recommendation-System-MOVICO/
     ├── MOVICO/             # Project Folder             
     │   ├── MOVICO.ipynb    # Code file
@@ -50,7 +50,7 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
     │        └── ratings.csv       
     └─── README.md           # Repository README
     
-    ```
+  ```
     
   <p align="right"><a href="#readme-top">back to top</a></p>
 </br>
