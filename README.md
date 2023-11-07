@@ -10,16 +10,18 @@ In ```MOVICO```, ```COllaborative filtering techniques``` are majorly given impo
 
 <details>
   <summary color= blue >Table of Contents</summary>
-<li> Introduction</li>
-<li> Prerequisites and Techstack</li>
-<li> Steps for Execution </li>
-<li> Sample Screenshots </li>
-<li> Usage</li>
+<li> <a href="#a1">Introduction</a></li>
+<li> <a href="#a2">Prerequisites and Techstack</a></li>
+<li> <a href="#a3">Steps for Execution </a></li>
+<li> <a href="#a4">Sample Screenshots </a></li>
+<li><a href="#a5">Usage </a></li>
 </details>
 </br>
 
 ## Introduction
-The repository ```Movie-Recommendation-System-MOVICO``` contains the project ```MOVICO```.
+
+<a name="a1"></a>
+```Movie-Recommendation-System-MOVICO``` contains the project ```MOVICO```.
 
 ```MOVICO``` is a ```Movie Recommendation System```.
 
@@ -56,7 +58,7 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
 </br>
 
 ##  Prerequisites and Techstack
-
+<a name="a2"></a>
 * Language: Python
 * Prerequisites: AI-ML algorithms, like KNN, SVD.
 * Other tools: Anaconda, Jupyter notebook.
@@ -78,6 +80,7 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
 
 ## Steps for Execution
 
+<a name="a3"></a>
 To run MOVICO, follow these simple steps:
 Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions >
 
@@ -111,6 +114,8 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions >
 
 ## Sample Screenshots
 
+
+<a name="a4"></a>
 There are 3 models used in MOVICO:
 
 * MODEL1 : USER-BASED COLLABORATIVE FILTERING
@@ -130,6 +135,8 @@ There are 3 models used in MOVICO:
 </br>
 
 ## Usage
+
+<a name="a5"></a>
 * MOVICO can be used to recommend movies to users, based on collaborative filtering techniques.
 * MOVICO outputs personalized movie recommendations based on users inputs.
 * More effective recommendation systems can be buit using MOVICO.
