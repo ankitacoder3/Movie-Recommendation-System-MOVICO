@@ -141,7 +141,7 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
     <br>
 
    
-     * **b]** In the cell number ```53``` and ```39``` ,
+     * **b]** In the cell number ```53``` ,
      
        you can ```enter the name of a movie``` in the widget (say, 'Toy Story')
 
@@ -151,7 +151,7 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
 
     <br>
 
-6. **Outputs**: will be displayed after all the cells have ran.
+7. **Outputs**: will be displayed after all the cells have ran.
   
    These shall include personalized movie recommendations based on your inputs.
 
