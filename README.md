@@ -85,11 +85,13 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
 To run MOVICO, follow these simple steps: <br>
 <b>
 Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Finish </b>
+<br><br>
 
  1. **Clone** the ``` 'Movie-Recommendation-System-MOVICO' ``` github repository.
   ```sh [
   git clone https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO.git
   ```
+
 2. **Launch** ```Jupyter Notebook``` on your system, using Anaconda.
 3. **Navigate** to the ``` 'MOVICO' ``` Directory in that.
   ```sh
