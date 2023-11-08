@@ -111,10 +111,13 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
 
 5. **Run-all** cells, by clicking on the ``` ">>" ``` (fast forward) option in the ```toolbar```, or the ``` "Restart & Run All Cells" ``` option from the ```"Kernel"``` menu.
 
-            This shall execute all the cells in the notebook.
+
+
+   This shall execute all the cells in the notebook.
+   
 <br>
 
-6. **MOVICO Specific Instructions**:
+7. **MOVICO Specific Instructions**:
    
    <br>
    
