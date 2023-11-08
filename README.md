@@ -15,12 +15,13 @@ In ```MOVICO```, ```COllaborative filtering techniques``` are majorly given impo
 <li> <a href="#a3">Steps for Execution </a></li>
 <li> <a href="#a4">Sample Screenshots </a></li>
 <li><a href="#a5">Usage </a></li>
+  <li><a href="#a6"><i>Skip to END...</i>i> </a></li>
 </details>
 </br>
 
+<a name="a1"></a>
 ## Introduction
 
-<a name="a1"></a>
 ```Movie-Recommendation-System-MOVICO``` contains the project ```MOVICO```.
 
 ```MOVICO``` is a ```Movie Recommendation System```.
@@ -57,8 +58,8 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
   <p align="right"><a href="#readme-top">back to top</a></p>
 </br>
 
-##  Prerequisites and Techstack
 <a name="a2"></a>
+##  Prerequisites and Techstack
 * Language: Python
 * Prerequisites: AI-ML algorithms, like KNN, SVD.
 * Other tools: Anaconda, Jupyter notebook.
@@ -78,9 +79,9 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </br>
 
+<a name="a3"></a>
 ## Steps for Execution
 
-<a name="a3"></a>
 To run MOVICO, follow these simple steps:
 Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions >
 
@@ -112,10 +113,11 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions >
   <p align="right"><a href="#readme-top">back to top</a></p>
 </br>
 
+<a name="a4"></a>
 ## Sample Screenshots
 
 
-<a name="a4"></a>
+
 There are 3 models used in MOVICO:
 
 * MODEL1 : USER-BASED COLLABORATIVE FILTERING
@@ -134,14 +136,15 @@ There are 3 models used in MOVICO:
   <p align="right"><a href="#readme-top">back to top</a></p>
 </br>
 
+<a name="a5"></a>
 ## Usage
 
-<a name="a5"></a>
+
 * MOVICO can be used to recommend movies to users, based on collaborative filtering techniques.
 * MOVICO outputs personalized movie recommendations based on users inputs.
 * More effective recommendation systems can be buit using MOVICO.
 * MOVICO also provides functions to test the recommendations received from the recommendation models.
   <p align="right"><a href="#readme-top">back to top</a></p>
 </br>
-
+<a name="a6"></a>
 Thank you for exploring the MOVICO project. Happy movie recommending and watching! 🍿🎬
