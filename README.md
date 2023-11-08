@@ -82,8 +82,9 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
 <a name="a3"></a>
 ## Steps for Execution
 
-To run MOVICO, follow these simple steps:
-Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions >
+To run MOVICO, follow these simple steps: <br>
+<b>
+Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Finish </b>
 
  1. **Clone** the ``` 'Movie-Recommendation-System-MOVICO' ``` github repository.
   ```sh [
