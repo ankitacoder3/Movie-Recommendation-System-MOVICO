@@ -131,7 +131,7 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
 
        and click ```enter```.
 
-       This shall display personalized movie recommendations.
+       This shall display <i>personalized movie recommendations</i>.
 
     <br>
 
