@@ -81,6 +81,7 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
 
 <a name="a3"></a>
 ## Steps for Execution
+<br>
 
 To run MOVICO, follow these simple steps: <br>
 <b>
@@ -91,18 +92,26 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Fini
   ```sh [
   git clone https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO.git
   ```
+<br>
 
 2. **Launch** ```Jupyter Notebook``` on your system, using Anaconda.
-3. **Navigate** to the ``` 'MOVICO' ``` Directory in that.
+   
+<br>
+
+4. **Navigate** to the ``` 'MOVICO' ``` Directory in that.
   ```sh
   cd Movie-Recommendation-System-MOVICO
   cd MOVICO
   ```
+<br>
+
   4. **Open** the **```MOVICO.ipynb```** file in Jupter Notebook. 
 
+<br>
 
 2. **Run-all** cells, by clicking on the ``` ">>" ``` (fast forward) option in the ```toolbar```, or the ``` "Restart & Run All Cells" ``` option from the ```"Kernel"``` menu.
      * This shall execute all the cells in the notebook.
+<br>
 
 4. **MOVICO Specific Instructions**:
      * **a]** In the cell number ```53```, you can ```enter the name of a movie``` in the widget (say, 'Toy Story') and click ```enter```.  This shall display personalized movie recommendations.
@@ -111,7 +120,11 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Fini
         * Enter the number of movies from the list of recommendations that you would say are irrelevant to your taste. Enter any number from 1 to 9 (say, 5).
         * These can be used for ```fine-tuning models``` too.
 
+<br>
+
 7. **Outputs**: will be displayed after all the cells have ran. These shall include personalized movie recommendations based on your inputs.
+
+<br>
 
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
 </br>
