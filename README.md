@@ -15,7 +15,7 @@ In ```MOVICO```, ```COllaborative filtering techniques``` are majorly given impo
 <li> <a href="#a3">Steps for Execution </a></li>
 <li> <a href="#a4">Sample Screenshots </a></li>
 <li><a href="#a5">Usage </a></li>
-<a href="#a6"><u><i>Skip to END...</i></u></a>
+<a href="#end"><u><i>Skip to END...</i></u></a>
 </details>
 </br>
 
@@ -214,5 +214,5 @@ There are 3 models used in MOVICO:
   
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
 </br>
-<a name="a6"></a>
+<a name="end"></a>
 Thank you for exploring the MOVICO project. Happy movie recommending and watching! 🍿🎬
