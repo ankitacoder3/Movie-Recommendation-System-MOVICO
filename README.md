@@ -55,7 +55,7 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
     
   ```
     
-  <p align="right"><a href="#readme-top">back to top</a></p>
+  <p align="right"><a href="#readme-top">Back to TOP</a></p>
 </br>
 
 <a name="a2"></a>
@@ -76,7 +76,7 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
   - IPython
   - Surprise
     
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  <p align="right"><a href="#readme-top">Back to TOP</a></p>
 </br>
 
 <a name="a3"></a>
@@ -110,7 +110,7 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions >
 
 7. **Outputs**: will be displayed after all the cells have ran. These shall include personalized movie recommendations based on your inputs.
 
-  <p align="right"><a href="#readme-top">back to top</a></p>
+  <p align="right"><a href="#readme-top">Back to TOP</a></p>
 </br>
 
 <a name="a4"></a>
@@ -133,7 +133,7 @@ There are 3 models used in MOVICO:
   * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/a3d60253-b240-40bc-bb11-663cdf3b6269)
   * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/5e754a09-c89f-4abf-8409-7983223d1680)
 
-  <p align="right"><a href="#readme-top">back to top</a></p>
+  <p align="right"><a href="#readme-top">Back to TOP</a></p>
 </br>
 
 <a name="a5"></a>
