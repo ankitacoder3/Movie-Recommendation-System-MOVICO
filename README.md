@@ -154,6 +154,8 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
 7. **Outputs**: will be displayed after all the cells have ran.
   
    These shall include ```personalized movie recommendations``` and ```error tracking``` based on your inputs.
+   
+<br>
 
 <br>
 
