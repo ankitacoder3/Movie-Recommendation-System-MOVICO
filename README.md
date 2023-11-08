@@ -126,7 +126,7 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
    <br>
 
 
-     * **a]** In cell number ```60```,
+     * **a]** In the cell number ```60```,
      
        you can enter ```any number from 1 to 9``` for both the inputs.
 
