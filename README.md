@@ -15,7 +15,7 @@ In ```MOVICO```, ```COllaborative filtering techniques``` are majorly given impo
 <li> <a href="#a3">Steps for Execution </a></li>
 <li> <a href="#a4">Sample Screenshots </a></li>
 <li><a href="#a5">Usage </a></li>
-  <li><a href="#a6"><i>Skip to END...</i>i> </a></li>
+  <li><a href="#a6"><u><i>Skip to END...</i></u></a></li>
 </details>
 </br>
 
