@@ -124,18 +124,9 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
 6. **MOVICO Specific Instructions**:
    
    <br>
-   
-     * **a]** In the cell number ```53```,
-     
-       you can ```enter the name of a movie``` in the widget (say, 'Toy Story')
 
-       and click ```enter```.
 
-       This shall display <i>personalized movie recommendations</i>.
-
-    <br>
-
-     * **b]** In cell number ```60```,
+     * **a]** In cell number ```60```,
      
        you can enter ```any number from 1 to 9``` for both the inputs.
 
@@ -147,9 +138,20 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
           
         * These can be used for ```fine-tuning models``` too.
 
-<br>
+    <br>
 
-7. **Outputs**: will be displayed after all the cells have ran.
+   
+     * **b]** In the cell number ```53``` and ```39``` ,
+     
+       you can ```enter the name of a movie``` in the widget (say, 'Toy Story')
+
+       and click ```enter```.
+
+       This shall display <i>personalized movie recommendations</i>.
+
+    <br>
+
+6. **Outputs**: will be displayed after all the cells have ran.
   
    These shall include personalized movie recommendations based on your inputs.
 
