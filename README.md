@@ -144,7 +144,7 @@ There are 3 models used in MOVICO:
 * MOVICO outputs personalized movie recommendations based on users inputs.
 * More effective recommendation systems can be buit using MOVICO.
 * MOVICO also provides functions to test the recommendations received from the recommendation models.
-  <p align="right"><a href="#readme-top">back to top</a></p>
+  <p align="right"><a href="#readme-top">Back to TOP</a></p>
 </br>
 <a name="a6"></a>
 Thank you for exploring the MOVICO project. Happy movie recommending and watching! 🍿🎬
