@@ -109,7 +109,11 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
 
 <br>
 
-5. **Run-all** cells, by clicking on the ``` ">>" ``` (fast forward) option in the ```toolbar```, or the ``` "Restart & Run All Cells" ``` option from the ```"Kernel"``` menu.
+5. **Run-all cells**,
+  
+   by clicking on the ``` ">>" ``` (fast forward) option in the ```toolbar```,
+
+   or the ``` "Restart & Run All Cells" ``` option from the ```"Kernel"``` menu.
 
 
 
@@ -117,17 +121,30 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
    
 <br>
 
-7. **MOVICO Specific Instructions**:
+6. **MOVICO Specific Instructions**:
    
    <br>
    
-     * **a]** In the cell number ```53```, you can ```enter the name of a movie``` in the widget (say, 'Toy Story') and click ```enter```.  This shall display personalized movie recommendations.
+     * **a]** In the cell number ```53```,
+     
+       you can ```enter the name of a movie``` in the widget (say, 'Toy Story')
+
+       and click ```enter```.
+
+       This shall display personalized movie recommendations.
 
     <br>
 
-     * **b]** In cell number ```60```, you can enter ```any number from 1 to 9``` for both the inputs.
+     * **b]** In cell number ```60```,
+     
+       you can enter ```any number from 1 to 9``` for both the inputs.
+
+       <br>
+       
         * Enter the number of movies you would love to watch from the list of recommendations. Enter any number from 1 to 9 (say, 6)
+          
         * Enter the number of movies from the list of recommendations that you would say are irrelevant to your taste. Enter any number from 1 to 9 (say, 5).
+          
         * These can be used for ```fine-tuning models``` too.
 
 <br>
