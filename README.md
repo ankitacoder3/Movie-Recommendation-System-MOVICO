@@ -85,7 +85,7 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
 
 To run MOVICO, follow these simple steps: <br>
 <b>
-Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Finish </b>
+Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outputs > CLOSE </b>
 <br><br>
 
  1. **Clone** the ``` 'Movie-Recommendation-System-MOVICO' ``` github repository.
@@ -98,7 +98,7 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Fini
    
 <br>
 
-4. **Navigate** to the ``` 'MOVICO' ``` Directory in that.
+3. **Navigate** to the ``` 'MOVICO' ``` Directory in that.
   ```sh
   cd Movie-Recommendation-System-MOVICO
   cd MOVICO
@@ -109,11 +109,11 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Fini
 
 <br>
 
-2. **Run-all** cells, by clicking on the ``` ">>" ``` (fast forward) option in the ```toolbar```, or the ``` "Restart & Run All Cells" ``` option from the ```"Kernel"``` menu.
+5. **Run-all** cells, by clicking on the ``` ">>" ``` (fast forward) option in the ```toolbar```, or the ``` "Restart & Run All Cells" ``` option from the ```"Kernel"``` menu.
      * This shall execute all the cells in the notebook.
 <br>
 
-4. **MOVICO Specific Instructions**:
+6. **MOVICO Specific Instructions**:
      * **a]** In the cell number ```53```, you can ```enter the name of a movie``` in the widget (say, 'Toy Story') and click ```enter```.  This shall display personalized movie recommendations.
      * **b]** In cell number ```60```, you can enter ```any number from 1 to 9``` for both the inputs.
         * Enter the number of movies you would love to watch from the list of recommendations. Enter any number from 1 to 9 (say, 6)
