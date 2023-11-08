@@ -164,6 +164,8 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
 
 
 There are 3 models used in MOVICO:
+
+
 <br>
 
 * MODEL1 : USER-BASED COLLABORATIVE FILTERING
