@@ -7,7 +7,7 @@
 
 In ```MOVICO```, ```COllaborative filtering techniques``` are majorly given importance.
 
-The name ```MOVICO```, originates from the fusion of ```MOVIe COllaborative```, embodying the essence of *Collaborative Movie Recommendations*.
+The name ```MOVICO``` originates from the fusion of ```MOVIe COllaborative```, encapsulating the essence of *Collaborative Movie Recommendations* with precision and accuracy.
 
 
 <details>
