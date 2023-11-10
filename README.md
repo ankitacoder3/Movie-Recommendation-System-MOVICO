@@ -24,9 +24,7 @@ In ```MOVICO```, ```COllaborative filtering techniques``` are majorly given impo
 
 ```Movie-Recommendation-System-MOVICO``` contains the project ```MOVICO```.
 
-```MOVICO``` is a ```Movie Recommendation System```.
-
-It mainly focuses and utilizes ```Collaborative Filtering Techniques``` 
+```MOVICO``` is a ```Movie Recommendation System```, and it mainly focuses and utilizes ```Collaborative Filtering Techniques```.
 
 The various collaborative filtering techniques utilized are ```KNN```, ```SVD```, etc...
 
