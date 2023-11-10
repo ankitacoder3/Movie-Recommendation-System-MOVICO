@@ -7,6 +7,8 @@
 
 In ```MOVICO```, ```COllaborative filtering techniques``` are majorly given importance.
 
+The name ```MOVICO```, occurs or is extracted from ```MOVIe COllaborative```, i.e. Movie Collaborative Recommendations.
+
 
 <details>
   <summary color= blue >Table of Contents</summary>
@@ -198,19 +200,18 @@ There are 3 models used in MOVICO:
 
 <br>
 
-* MOVICO can be used to recommend movies to users, based on collaborative filtering techniques.
+* MOVICO can be used to recommend movies to users, based on **collaborative filtering techniques**.
 
   
-* MOVICO outputs personalized movie recommendations based on users inputs.
+* MOVICO outputs **personalized movie recommendations** based on users inputs.
+
+* MOVICO also **evaluates the recommendations** received, from the recommendation models.
+  
+* More **effective recommendation systems** can be buit using MOVICO.
 
   
-* More effective recommendation systems can be buit using MOVICO.
-
-  
-* MOVICO also provides functions to test the recommendations received from the recommendation models.
-
   
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
 </br>
 <a name="end"></a>
-Thank you for exploring the MOVICO project. Happy movie recommending and watching! 🍿🎬
+Thank you for exploring the MOVICO project. Happy movie recommending, evaluating and watching! 🍿🎬
