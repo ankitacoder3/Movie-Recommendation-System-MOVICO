@@ -201,14 +201,14 @@ There are 3 models used in MOVICO:
 
 <br>
 
-* MOVICO can be used to recommend movies to users, based on **collaborative filtering techniques**.
+* MOVICO can be used to recommend movies to users, based on ***collaborative filtering techniques*** .
 
   
-* MOVICO outputs **personalized movie recommendations** based on users inputs.
+* MOVICO outputs ***personalized movie recommendations*** based on users inputs.
 
-* MOVICO also **evaluates the recommendations** received, from the recommendation models.
+* MOVICO also ***evaluates the recommendations*** received, from the recommendation models.
   
-* More **effective recommendation systems** can be buit using MOVICO.
+* More ***effective recommendation systems*** can be buit using MOVICO.
 
   
   
