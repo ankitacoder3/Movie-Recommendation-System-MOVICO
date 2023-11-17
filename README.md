@@ -9,7 +9,7 @@ In ```MOVICO```, ```COllaborative filtering techniques``` are majorly given impo
 
 
 
-<details>
+<details open>
   <summary color= blue >Table of Contents</summary>
 <li> <a href="#a1">Introduction</a></li>
 <li> <a href="#a2">Prerequisites and Techstack</a></li>
