@@ -7,7 +7,7 @@
 
 In ```MOVICO```, ```COllaborative filtering techniques``` are majorly given importance.
 
-
+<br>
 
 <details open>
   <summary color= blue >Table of Contents</summary>
