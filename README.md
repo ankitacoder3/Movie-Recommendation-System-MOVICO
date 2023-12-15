@@ -176,7 +176,6 @@ There are 3 models used in MOVICO:
 * MODEL1 : USER-BASED COLLABORATIVE FILTERING
   
   * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/a96f5f41-7376-4410-83dc-2566663512c9)
-  * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/aae950b5-791a-4094-af50-2288582cdd3b)
   * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/783d5481-a29b-415f-be1a-4f63f370e805)
 
 
