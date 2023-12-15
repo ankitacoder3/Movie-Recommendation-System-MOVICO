@@ -177,6 +177,8 @@ There are 3 models used in MOVICO:
   
   * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/a96f5f41-7376-4410-83dc-2566663512c9)
   * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/aae950b5-791a-4094-af50-2288582cdd3b)
+  * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/783d5481-a29b-415f-be1a-4f63f370e805)
+
 
 
   <br>
@@ -192,6 +194,7 @@ There are 3 models used in MOVICO:
   
   * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/a3d60253-b240-40bc-bb11-663cdf3b6269)
   * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/5e754a09-c89f-4abf-8409-7983223d1680)
+  
 
 <br>
   <p align="right"><a href="#readme-top">Back to TOP</a></p>
