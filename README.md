@@ -1,11 +1,15 @@
-<a name="readme-top"></a>
 
+<a name="readme-top"></a>
 
 # Movie-Recommendation-System-MOVICO
 
+The repo ```Movie-Recommendation-System-MOVICO``` contains the ```AI-ML Project```, namely ```MOVICO```.
+
 ```MOVICO``` is a ```MOVIe recommendation system```.
 
-In ```MOVICO```, ```COllaborative filtering techniques``` are majorly given importance.
+In ```MOVICO```, mainly ```COllaborative filtering techniques``` are used.
+
+The project ```Movie-Recommendation-System-MOVICO``` was created as a project for the ```Machine Intelligence``` Course , which was part of the course ```UE20CS302```.
 
 <br>
 
@@ -21,6 +25,7 @@ In ```MOVICO```, ```COllaborative filtering techniques``` are majorly given impo
 </br>
 
 <a name="a1"></a>
+
 ## Introduction
 
 ```Movie-Recommendation-System-MOVICO``` contains the project ```MOVICO```.
@@ -35,13 +40,18 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
 
 ### <b>Files :</b>
 
-  The following files are used in ```MOVICO```-
+  In the ```'MOVICO' Directory``` there are several files:
+
   * <i>Project Python Code File-</i> `MOVICO.ipynb`
+
   * <i>Dataset Files-</i> `movies.csv`, `ratings.csv`
     
 <br>
 
 ### <b>Repository Structure :</b>
+
+<details>
+  <summary color= blue ><u><b><i>MOVICO repo structure</i></b> click...</u></summary>
 
   Below is the structure of the ```MOVICO``` project repository
   
@@ -55,33 +65,48 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
     └─── README.md           # Repository README
     
   ```
-    
-  <p align="right"><a href="#readme-top">Back to TOP</a></p>
-</br>
+
+  </details>
+
+<br>    
+<p align="right"><a href="#readme-top">Back to TOP</a></p>
 
 <a name="a2"></a>
+
 ##  Prerequisites and Techstack
-* Language: Python
-* Prerequisites: AI-ML algorithms, like KNN, SVD.
-* Other tools: Anaconda, Jupyter notebook.
-* Python Modules used:
-   * NumPy
-  - Pandas
-  - Matplotlib
-  - Seaborn
-  - Scipy
-  - Datetime
-  - Re
-  - Sklearn
-  - Ipywidgets
-  - IPython
-  - Surprise
-    
-  <p align="right"><a href="#readme-top">Back to TOP</a></p>
-</br>
+
+### Language:
+* Python
+
+### Prerequisites: 
+* Basic understanding of AI-ML algorithms
+* KNN 
+* SVD
+
+### Other Tools:
+* Anaconda
+* Jupyter notebook
+
+### Python Modules:
+  * NumPy
+  * Pandas
+  * Matplotlib
+  * Seaborn
+  * Scipy
+  * Datetime
+  * Re
+  * Sklearn
+  * Ipywidgets
+  * IPython
+  * Surprise
+
+</br>  
+<p align="right"><a href="#readme-top">Back to TOP</a></p>
 
 <a name="a3"></a>
+
 ## Steps for Execution
+
 <br>
 
 To run MOVICO, follow these simple steps: <br>
@@ -160,16 +185,14 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
 
 <br>
 
-  <p align="right"><a href="#readme-top">Back to TOP</a></p>
+<p align="right"><a href="#readme-top">Back to TOP</a></p>
 </br>
 
 <a name="a4"></a>
+
 ## Sample Screenshots
 
-
-
 There are 3 models used in MOVICO:
-
 
 <br>
 
@@ -178,9 +201,7 @@ There are 3 models used in MOVICO:
   * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/a96f5f41-7376-4410-83dc-2566663512c9)
   * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/783d5481-a29b-415f-be1a-4f63f370e805)
 
-
-
-  <br>
+<br>
   
 * MODEL2 : KNN-BASED COLLABORATIVE FILTERING
   
@@ -194,28 +215,30 @@ There are 3 models used in MOVICO:
   * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/a3d60253-b240-40bc-bb11-663cdf3b6269)
   * ![image](https://github.com/ankitacoder3/Movie-Recommendation-System-MOVICO/assets/73939061/5e754a09-c89f-4abf-8409-7983223d1680)
   
-
 <br>
-  <p align="right"><a href="#readme-top">Back to TOP</a></p>
-</br>
+
+<p align="right"><a href="#readme-top">Back to TOP</a></p>
 
 <a name="a5"></a>
+
 ## Usage
 
 <br>
 
 * MOVICO can be used to recommend movies to users, based on ***collaborative filtering techniques*** .
 
-  
 * MOVICO outputs ***personalized movie recommendations*** based on users inputs.
 
 * MOVICO also ***evaluates the recommendations*** received, from the recommendation models.
   
 * More ***effective recommendation systems*** can be buit using MOVICO.
 
+* The project `MOVICO` or `Movie Recommendation System` could also be used as an `AI-ML Project`, for courses like `Machine Intelligence Project`, or specifically as a project for the courses `UE20CS302` or ue20cs302.
   
-  
-  <p align="right"><a href="#readme-top">Back to TOP</a></p>
 </br>
+<p align="right"><a href="#readme-top">Back to TOP</a></p>
+
 <a name="end"></a>
 Thank you for exploring the MOVICO project. Happy movie recommending, evaluating and watching! 🍿🎬
+
+###
