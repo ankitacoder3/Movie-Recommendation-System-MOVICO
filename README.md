@@ -4,23 +4,19 @@
 # Movie-Recommendation-System-MOVICO
 
 The repo ```Movie-Recommendation-System-MOVICO``` contains the ```AI-ML Project```, namely ```MOVICO```.
-
-```MOVICO``` is a ```MOVIe recommendation system```.
-
-In ```MOVICO```, mainly ```COllaborative filtering techniques``` are used.
+It is a ```MOVIe recommendation system```, that mainly uses```COllaborative filtering techniques```.
 
 The project ```Movie-Recommendation-System-MOVICO``` was created as a project for the ```Machine Intelligence``` Course , which was part of the course ```UE20CS302```.
 
 <br>
-
 <details open>
   <summary color= blue >Table of Contents</summary>
-<li> <a href="#a1">Introduction</a></li>
-<li> <a href="#a2">Prerequisites and Techstack</a></li>
-<li> <a href="#a3">Steps for Execution </a></li>
-<li> <a href="#a4">Sample Screenshots </a></li>
-<li><a href="#a5">Usage </a></li>
-<a href="#end"><u><i>Skip to END...</i></u></a>
+    <li> <a href="#a1">Introduction</a></li>
+    <li> <a href="#a2">Prerequisites and Techstack</a></li>
+    <li> <a href="#a3">Steps for Execution </a></li>
+    <li> <a href="#a4">Sample Screenshots </a></li>
+    <li><a href="#a5">Usage </a></li>
+  <a href="#end"><u><i>Skip to END...</i></u></a>
 </details>
 </br>
 
@@ -28,11 +24,11 @@ The project ```Movie-Recommendation-System-MOVICO``` was created as a project fo
 
 ## Introduction
 
-```Movie-Recommendation-System-MOVICO``` contains the project ```MOVICO```.
+The repo ```Movie-Recommendation-System-MOVICO``` contains the project ```MOVICO```.
 
-```MOVICO``` is a ```Movie Recommendation System```, and it mainly focuses and utilizes ```Collaborative Filtering Techniques```.
+```MOVICO``` is a **Movie Recommendation System**, and it mainly focuses and utilizes **Collaborative Filtering Techniques**.
 
-The name ```MOVICO``` originates from the fusion of ```MOVIe COllaborative```, encapsulating the essence of *Collaborative Movie Recommendations* with precision and accuracy.
+The name ```MOVICO``` originates from the fusion of ```MOVIe COllaborative```, encapsulating the essence of **Collaborative Movie Recommendations** with precision and accuracy.
 
 The various collaborative filtering techniques utilized are ```KNN```, ```SVD```, etc...
 
@@ -100,7 +96,7 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
   * IPython
   * Surprise
 
-</br>  
+<br>  
 <p align="right"><a href="#readme-top">Back to TOP</a></p>
 
 <a name="a3"></a>
@@ -112,7 +108,8 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
 To run MOVICO, follow these simple steps: <br>
 <b>
 Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outputs > CLOSE </b>
-<br><br>
+<br>
+<br>
 
  1. **Clone** the ``` 'Movie-Recommendation-System-MOVICO' ``` github repository.
   ```sh [
@@ -121,7 +118,6 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
 <br>
 
 2. **Launch** ```Jupyter Notebook``` on your system, using Anaconda.
-   
 <br>
 
 3. **Navigate** to the ``` 'MOVICO' ``` Directory in that.
@@ -132,7 +128,6 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
 <br>
 
   4. **Open** the **```MOVICO.ipynb```** file in Jupter Notebook. 
-
 <br>
 
 5. **Run-all cells**,
@@ -141,30 +136,22 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
 
    or the ``` "Restart & Run All Cells" ``` option from the ```"Kernel"``` menu.
 
-
-
    This shall execute all the cells in the notebook.
-   
 <br>
 
 6. **MOVICO Specific Instructions**:
    
-   <br>
-
 
      * **a]** In the cell number ```60```,
      
        you can enter ```any number from 1 to 9``` for both the inputs.
 
-       <br>
        
         * Enter the number of movies you would love to watch from the list of recommendations. Enter any number from 1 to 9 (say, 6)
           
         * Enter the number of movies from the list of recommendations that you would say are irrelevant to your taste. Enter any number from 1 to 9 (say, 5).
           
         * These can be used for ```fine-tuning models``` too.
-
-    <br>
 
    
      * **b]** In the cell number ```53``` ,
@@ -173,7 +160,7 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
 
        and click ```enter```.
 
-       This shall display <i>personalized movie recommendations</i>.
+       * This shall display <i>personalized movie recommendations</i>.
 
     <br>
 
@@ -183,14 +170,13 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
    
 <br>
 
-<br>
-
 <p align="right"><a href="#readme-top">Back to TOP</a></p>
-</br>
 
 <a name="a4"></a>
 
 ## Sample Screenshots
+
+<br>
 
 There are 3 models used in MOVICO:
 
@@ -223,8 +209,6 @@ There are 3 models used in MOVICO:
 
 ## Usage
 
-<br>
-
 * MOVICO can be used to recommend movies to users, based on ***collaborative filtering techniques*** .
 
 * MOVICO outputs ***personalized movie recommendations*** based on users inputs.
@@ -239,6 +223,8 @@ There are 3 models used in MOVICO:
 <p align="right"><a href="#readme-top">Back to TOP</a></p>
 
 <a name="end"></a>
+<br>
+
 Thank you for exploring the MOVICO project. Happy movie recommending, evaluating and watching! 🍿🎬
 
 ###
