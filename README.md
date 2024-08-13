@@ -34,6 +34,10 @@ The various collaborative filtering techniques utilized are ```KNN```, ```SVD```
 
 <br>
 
+Welcome to MOVICO!!
+
+</br>
+
 ### <b>Files :</b>
 
   In the ```'MOVICO' Directory``` there are several files:
