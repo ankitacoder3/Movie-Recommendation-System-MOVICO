@@ -156,11 +156,11 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
    
      * **b]** In the cell number ```53``` ,
      
-       you can ```enter the name of a movie``` in the widget (say, 'Toy Story')
+       you can ```enter the name of a movie``` in the widget, and click ```enter```.
+       
+       * Enter any movie name (say, 'Toy Story'), and press *enter*.
 
-       and click ```enter```.
-
-       * This shall display <i>personalized movie recommendations</i>.
+       * This shall display ```personalized movie recommendations```.
 
     <br>
 
