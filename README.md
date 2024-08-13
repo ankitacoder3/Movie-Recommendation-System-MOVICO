@@ -127,7 +127,7 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
   ```
 <br>
 
-  4. **Open** the **```MOVICO.ipynb```** file in Jupter Notebook. 
+4. **Open** the **```MOVICO.ipynb```** file in Jupter Notebook. 
 <br>
 
 5. **Run-all cells**,
@@ -144,7 +144,7 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
 
      * **a]** In the cell number ```60```,
      
-       you can enter ```any number from 1 to 9``` for both the inputs.
+       you can enter ```any number from 1 to 9``` for ```both``` the inputs.
 
        
         * Enter the number of movies you would love to watch from the list of recommendations. Enter any number from 1 to 9 (say, 6)
@@ -157,6 +157,7 @@ Clone > Launch > Navigate > Open > Run-all > MOVICO Specific Instructions > Outp
      * **b]** In the cell number ```53``` ,
      
        you can ```enter the name of a movie``` in the widget, and click ```enter```.
+       
        
        * Enter any movie name (say, 'Toy Story'), and press *enter*.
 
