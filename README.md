@@ -32,10 +32,11 @@ The name ```MOVICO``` originates from the fusion of ```MOVIe COllaborative```, e
 
 The various collaborative filtering techniques utilized are ```KNN```, ```SVD```, etc...
 
-<br>
+
 
 Welcome to MOVICO!!
 
+<br>
 
 
 ### <b>Files :</b>
