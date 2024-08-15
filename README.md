@@ -232,5 +232,3 @@ There are 3 models used in MOVICO:
 <br>
 
 Thank you for exploring the MOVICO project. Happy movie recommending, evaluating and watching! 🍿🎬
-
-###
