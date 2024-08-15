@@ -28,7 +28,7 @@ The repo ```Movie-Recommendation-System-MOVICO``` contains the project ```MOVICO
 
 ```MOVICO``` is a **Movie Recommendation System**, and it mainly focuses and utilizes **Collaborative Filtering Techniques**.
 
-The name ```MOVICO``` originates from the fusion of ```MOVIe COllaborative``` (MOVI-CO), encapsulating the essence of **Collaborative Movie Recommendations** with precision and accuracy.
+The name ```"MOVICO' (MOVI-CO)``` originates from the fusion of ```MOVIe COllaborative```, encapsulating the essence of **Collaborative Movie Recommendations** with precision and accuracy.
 
 The various collaborative filtering techniques utilized are ```KNN```, ```SVD```, etc...
 
