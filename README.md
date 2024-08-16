@@ -4,7 +4,7 @@
 # Movie-Recommendation-System-MOVICO
 
 The repo ```Movie-Recommendation-System-MOVICO``` contains the ```AI-ML Project```, namely ***MOVICO***.
-It is a ***'MOVIe recommendation system'*** that mainly uses ***'COllaborative filtering techniques'***.
+It is a ***'Movie Recommendation System'*** that mainly uses ***'Collaborative Filtering Techniques'***.
 
 The project ```Movie-Recommendation-System-MOVICO``` was created as a project for the ```Machine Intelligence``` Course , which was part of the course ```UE20CS302```.
 
@@ -26,7 +26,7 @@ The project ```Movie-Recommendation-System-MOVICO``` was created as a project fo
 
 The repo ```Movie-Recommendation-System-MOVICO``` contains the project ```MOVICO```.
 
-```MOVICO``` is a **Movie Recommendation System**, and it mainly focuses and utilizes **Collaborative Filtering Techniques**.
+```MOVICO``` is a **MOVIe recommendation system**, and it mainly focuses and utilizes **COllaborative filtering techniques**.
 
 The name ```MOVICO``` originates from the fusion of ```MOVIe COllaborative``` (i.e., MOVI-CO), encapsulating the essence of **Collaborative Movie Recommendations** with precision and accuracy.
 
@@ -233,5 +233,3 @@ There are 3 models used in MOVICO:
 
 Thank you for exploring the MOVICO project. Happy movie recommending, evaluating and watching! 🍿🎬
 
-
-###
